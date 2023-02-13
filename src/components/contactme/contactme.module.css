@@ -1,0 +1,44 @@
+.contact{
+    background-color: grey;
+    border-top-left-radius: 100% 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.icon{
+    font-size: xx-large;
+    margin: 20px;
+    
+    
+}
+.icon:hover{
+    color: antiquewhite;
+}
+.p{width: 80%;
+    
+  
+}
+.mobmail{
+    text-align: start;
+    margin-top: 5%;
+    margin-left: 20%;
+}
+.a{color:black}
+.a:link { text-decoration: none; }
+.a:visited { text-decoration: none; }
+.a:hover { text-decoration: none; color:white}
+.a:active { text-decoration: none;color:white }
+@media only screen and (max-width:450px){
+    .mobmail{
+       font-size:small ;
+    }
+
+}
+@media only screen and (max-width:340px){
+    .mobmail{
+       font-size:x-small ;
+    }
+
+}
