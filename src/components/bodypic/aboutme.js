@@ -34,8 +34,8 @@ const Aboutme=()=>{
    
     <div >
       <h5 >My skils</h5>
-      <p>I started to study independently and by now I have mastered the Java Script programming language, HTML5,CSS,
-        React.js with Redux and Router,and I have been practicing Nextjs for a while.I understand  Mongodb, which I started working in before React. I am currently working on projects related to React.js
+      <p>I started to study independently and by now I have mastered the Java Script programming language, HTML5, CSS, SASS, Bootstrap,
+        React.js with Redux and Router, MUI NextJS.I understand  Mongodb,Mongoose, NodeJS, EXPRESS and MySQL. I am currently working on projects related to React.js and MongoDB
          </p>
     </div>
   </div>
