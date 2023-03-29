@@ -36,20 +36,21 @@ return(
     data-aos="fade-up"
    data-aos-easing="ease"
    data-aos-duration="700"
-   ><BsCardChecklist className={classes.icons}/><button className={classes.button}><a className={classes.a}href="https://github.com/sredoje13/todolis">TO DO LIST</a></button></div>
+   ><BsCardChecklist className={classes.icons}/><button className={classes.button}><a className={classes.a}href="https://celadon-khapse-7e29a2.netlify.app/">TO DO LIST</a></button></div>
    <div className={classes.btnicons}
    data-aos="fade-up"
    data-aos-easing="ease"
    data-aos-duration="700"
    data-aos-delay="500"
-   ><AiOutlineShoppingCart className={classes.icons}/><button className={classes.button}><a className={classes.a} href="https://github.com/sredoje13/project1">SHOPPING SITE</a></button></div>
+   ><AiOutlineShoppingCart className={classes.icons}/><button className={classes.button}><a className={classes.a} href="https://main--sunny-taiyaki-639ff0.netlify.app/movies">MEMORIES</a></button></div>
     <div>
     <div className={classes.btnicons}
    data-aos="fade-up"
    data-aos-easing="ease"
    data-aos-duration="700"
    data-aos-delay="1000"
-   ><GrGamepad className={classes.icons}/><button className={classes.button}><a className={classes.a} href="https://github.com/sredoje13/website">WEBSITE</a></button></div>
+   ><GrGamepad className={classes.icons}/><button className={classes.button}>
+    <a className={classes.a} href="https://main--rad-alpaca-2e70a9.netlify.app/">WEBSITE</a></button></div>
     </div>
     <div className={classes.ifdiv}
     data-aos="zoom-in"
