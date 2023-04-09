@@ -4,6 +4,7 @@ import {GrGamepad} from 'react-icons/gr'
 import { useSelector } from 'react-redux'
 import {FiStar} from 'react-icons/fi'
 import { useRef } from 'react'
+import {BiMemoryCard} from 'react-icons/bi'
 import classes from './myproject.module.css'
 import Aos from 'aos'
 import 'aos/dist/aos.css'
@@ -36,19 +37,30 @@ return(
     data-aos="fade-up"
    data-aos-easing="ease"
    data-aos-duration="700"
-   ><BsCardChecklist className={classes.icons}/><button className={classes.button}><a className={classes.a}href="https://celadon-khapse-7e29a2.netlify.app/">TO DO LIST</a></button></div>
+   ><BsCardChecklist className={classes.icons}/>
+   <button className={classes.button}>
+    <a className={classes.a}href="https://celadon-khapse-7e29a2.netlify.app/">TO DO LIST</a></button></div>
    <div className={classes.btnicons}
    data-aos="fade-up"
    data-aos-easing="ease"
    data-aos-duration="700"
-   data-aos-delay="500"
-   ><AiOutlineShoppingCart className={classes.icons}/><button className={classes.button}><a className={classes.a} href="https://main--sunny-taiyaki-639ff0.netlify.app/movies">MEMORIES</a></button></div>
+   data-aos-delay="400"
+   ><BiMemoryCard className={classes.icons}/><button className={classes.button}><a className={classes.a} href="https://main--sunny-taiyaki-639ff0.netlify.app/movies">MEMORIES</a></button></div>
+     <div  className={classes.btnicons}
+    data-aos="fade-up"
+   data-aos-easing="ease"
+   data-aos-duration="700"
+   data-aos-delay="800"
+   ><AiOutlineShoppingCart className={classes.icons}/>
+   <button className={classes.button}>
+    <a className={classes.a}href="https://main--strong-praline-43f9f6.netlify.app/">WEB SHOP</a></button></div>
+   
     <div>
     <div className={classes.btnicons}
    data-aos="fade-up"
    data-aos-easing="ease"
    data-aos-duration="700"
-   data-aos-delay="1000"
+   data-aos-delay="1200"
    ><GrGamepad className={classes.icons}/><button className={classes.button}>
     <a className={classes.a} href="https://main--rad-alpaca-2e70a9.netlify.app/">WEBSITE</a></button></div>
     </div>
@@ -56,8 +68,9 @@ return(
     data-aos="zoom-in"
     data-aos-easing="ease"
     data-aos-duration="700"
-    data-aos-delay="1500"
+    data-aos-delay="1600"
     ><FiStar className={classes.star}/>
+
     If you want to see some more of my projects, they are on my <a  className={classes.a2}href="https://github.com/sredoje13?tab=repositories">git hub</a> account!!!
     </div>
     </div>
