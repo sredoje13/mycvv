@@ -25,8 +25,7 @@ const Aboutme=()=>{
     <div >
       <h5 >Something about me...</h5>
       <p>Hello,I'm Jelena! I' 25 years old, from Serbia and I live near capital city, Belgrade!</p>
-    <p>I recently discovered a new hobby - web programming!</p>
-    <p>I decided to combine beautiful and useful and start programming professionally!</p>
+    <p>Two years ago, I decided to combine beautiful and useful and start with programming professionally!</p>
     </div>
   </div>
   <div className={classes.about2}>
@@ -34,7 +33,7 @@ const Aboutme=()=>{
    
     <div >
       <h5 >My skils</h5>
-      <p>I started to study independently and by now I have mastered the Java Script programming language, HTML5, CSS, SASS, Bootstrap,
+      <p>I have two years of experience in creating freelance projects. I have mastered the Java Script programming language, HTML5, CSS, SASS, Bootstrap,
         React.js with Redux and Router, MUI NextJS.I understand  Mongodb,Mongoose, NodeJS, EXPRESS and MySQL. I am currently working on projects related to React.js and MongoDB
          </p>
     </div>
@@ -45,7 +44,6 @@ const Aboutme=()=>{
       <p>I started my education in Medical High School 2012.
       after graduation,2016, I decided to enter the Military Academy!
       In 2020, I graduated from the Military Academy as a management engineer.
-      Now, i have 3 years work expirience!
          </p>
     </div>
   </div></div>
