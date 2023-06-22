@@ -62,7 +62,7 @@ return(
    data-aos-duration="700"
    data-aos-delay="1200"
    ><GrGamepad className={classes.icons}/><button className={classes.button}>
-    <a className={classes.a} href="https://main--rad-alpaca-2e70a9.netlify.app/">WEBSITE</a></button></div>
+    <a className={classes.a} href="https://main--stellular-hamster-fd58f0.netlify.app/">WEBSITE</a></button></div>
     </div>
     <div className={classes.ifdiv}
     data-aos="zoom-in"
