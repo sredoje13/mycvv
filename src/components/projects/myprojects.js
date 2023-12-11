@@ -45,7 +45,7 @@ return(
    data-aos-easing="ease"
    data-aos-duration="700"
    data-aos-delay="400"
-   ><BiMemoryCard className={classes.icons}/><button className={classes.button}><a className={classes.a} href="https://main--sunny-taiyaki-639ff0.netlify.app/movies">MEMORIES</a></button></div>
+   ><BiMemoryCard className={classes.icons}/><button className={classes.button}><a className={classes.a} href="exp://u.expo.dev/update/9cc165a9-c617-47b1-bfce-f61ef93ccff5"> React Native APP (DOWNLOAD)</a></button></div>
      <div  className={classes.btnicons}
     data-aos="fade-up"
    data-aos-easing="ease"
@@ -53,7 +53,7 @@ return(
    data-aos-delay="800"
    ><AiOutlineShoppingCart className={classes.icons}/>
    <button className={classes.button}>
-    <a className={classes.a}href="https://main--strong-praline-43f9f6.netlify.app/">WEB SHOP</a></button></div>
+    <a className={classes.a}href="https://stellular-hamster-fd58f0.netlify.app/">WEBSITE 1</a></button></div>
    
     <div>
     <div className={classes.btnicons}
@@ -62,7 +62,7 @@ return(
    data-aos-duration="700"
    data-aos-delay="1200"
    ><GrGamepad className={classes.icons}/><button className={classes.button}>
-    <a className={classes.a} href="https://main--stellular-hamster-fd58f0.netlify.app/">WEBSITE</a></button></div>
+    <a className={classes.a} href="https://comfy-pothos-71e3f6.netlify.app/">WEBSITE 2</a></button></div>
     </div>
     <div className={classes.ifdiv}
     data-aos="zoom-in"
