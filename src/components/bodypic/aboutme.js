@@ -25,7 +25,7 @@ const Aboutme=()=>{
     <div >
       <h5 >Something about me...</h5>
       <p>Hello,I'm Jelena! I' 25 years old, from Serbia and I live near capital city, Belgrade!</p>
-    <p>Two years ago, I decided to combine beautiful and useful and start with programming professionally!</p>
+    <p>3 years ago, I decided to combine beautiful and useful and start with programming professionally!</p>
     </div>
   </div>
   <div className={classes.about2}>
@@ -33,8 +33,8 @@ const Aboutme=()=>{
    
     <div >
       <h5 >My skils</h5>
-      <p>I have two years of experience in creating freelance projects. I have mastered the Java Script programming language, HTML5, CSS, SASS, Bootstrap,
-        React.js with Redux and Router, MUI NextJS.I understand  Mongodb,Mongoose, NodeJS, EXPRESS and MySQL. I am currently working on projects related to React.js and MongoDB
+      <p>I have 3 years of experience in creating freelance projects. I have mastered the Java Script programming language, HTML5, CSS, SASS, Bootstrap, ReactNative
+        React JS with Redux and Router, MUI NextJS.I understand  MongoDB, Mongoose, NodeJS, EXPRESS and MySQL. 
          </p>
     </div>
   </div>
