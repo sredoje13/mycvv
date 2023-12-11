@@ -45,7 +45,7 @@ return(
    data-aos-easing="ease"
    data-aos-duration="700"
    data-aos-delay="400"
-   ><BiMemoryCard className={classes.icons}/><button className={classes.button}><a className={classes.a} href="exp://u.expo.dev/update/9cc165a9-c617-47b1-bfce-f61ef93ccff5"> React Native APP (DOWNLOAD)</a></button></div>
+   ><BiMemoryCard className={classes.icons}/><button className={classes.button}><a className={classes.a} href="https://expo.dev//accounts/sredoje13/projects/WeddingApp/builds/fba08c5d-5b8b-4a2c-9b84-d01fd3545010"> React Native App(Download for android)</a></button></div>
      <div  className={classes.btnicons}
     data-aos="fade-up"
    data-aos-easing="ease"
