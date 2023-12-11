@@ -39,7 +39,7 @@ return(
    data-aos-duration="700"
    ><BsCardChecklist className={classes.icons}/>
    <button className={classes.button}>
-    <a className={classes.a}href="https://celadon-khapse-7e29a2.netlify.app/">TO DO LIST</a></button></div>
+    <a className={classes.a}href="https://endearing-peony-a46013.netlify.app/">Planner 5D project</a></button></div>
    <div className={classes.btnicons}
    data-aos="fade-up"
    data-aos-easing="ease"
